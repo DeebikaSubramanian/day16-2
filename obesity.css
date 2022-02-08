@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@500&family=Roboto:wght@300&display=swap');
+body{
+    margin: 0;
+    padding:0%;
+    overflow: scroll;
+}
+#bg
+{
+   
+       margin-top: 15px;
+       padding-top: 5px;
+       background-color: #39b3c6;
+      
+       
+}
+    
+#im
+{
+    height: 350px;
+    width: 350px;
+}
+#im1
+{
+    height: 150px;
+    width: 150px;
+}
+#im2
+{
+    margin-top: 80px;
+    height: 130px;
+    width: 80px;
+}
+
+#pa
+{  
+    font-weight:bold;
+    color:#f3d47a;
+    font-size: 25px;
+
+    
+}
+#per
+{
+    color: #2d556d;
+    font-size: 40px;
+    font-weight:bold;
+}
+#men
+{
+    
+    margin-top: 20px;
+    height: 50px;
+    width:30px
+}
+#pa1
+{  
+    line-height: 35px;
+    
+    color:#39b3c6;
+    font-size: 28px;
+    text-align: center;
+
+    
+}
+#per1
+{
+    color: #f3d47a;
+    font-size: 60px;
+    font-weight:bold;
+}
+#bread
+{
+    height:100px;
+    width:100px;
+}
+
+#word
+{
+    margin-top: 25px;
+    color: #2d556d;
+    font-size: 30px;
+}
+
+#num
+{
+    color: #f3d47a;
+    font-size: 40px;
+}
+
+#sen
+{
+    line-height: 1px;
+    color:#39b3c6;
+    font-size: 15px;
+}
